@@ -53,5 +53,8 @@ $(document).ready(function(){
           trigger: 'click',
           placement: 'bottom',
           content: function () { return '<img src="' + $(this).data('img') + '" />'; }
-        });      
+        });
+        
+    $('.carousel').carousel()
   });
+
