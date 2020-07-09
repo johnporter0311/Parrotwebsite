@@ -1,0 +1,10 @@
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[user]
+	name = johnporter0311
+	email = 65376523+johnporter0311@users.noreply.github.com
+[gui]
+	recentrepo = C:/Users/johnp/Project

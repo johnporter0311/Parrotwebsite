@@ -103,9 +103,10 @@ body {
     margin-right: 20px;
 }
 
-.carousel-item {
-margin-top: 100;
-margin-bottom: 100;
-margin-left: auto;
+
+.carousel img {
+
+    margin: auto;
 
 }
+
