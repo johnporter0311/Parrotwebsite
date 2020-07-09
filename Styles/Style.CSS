@@ -69,36 +69,43 @@ body {
     background-color: aqua;
 }
 
-.Red{
+.Red {
     color: red;
 }
-.Blue{
+.Blue {
     color: blue;
 }
-.Yellow{
+.Yellow {
     color: yellow;
 }
-.Green{
+.Green {
     color: lightgreen;
 }
-.Violet{
+.Violet {
     color: violet
 }
 
 .addMargin {
-margin-top: 10px;
-margin-bottom: 30px;
+    margin-top: 10px;
+    margin-bottom: 30px;
 }
  
-.definition{
+.definition {
     font-size: smaller;
 }
-#understanding{
+#understanding {
     font-weight: bolder;
 
 }
 
-.nav-link{
+.nav-link {
     margin-left: 20px;
     margin-right: 20px;
+}
+
+.carousel-item {
+margin-top: 100;
+margin-bottom: 100;
+margin-left: auto;
+
 }
