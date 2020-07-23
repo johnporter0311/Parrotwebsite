@@ -7,6 +7,8 @@ Designing this site gave me a lot of issues.  I started using HTML, CSS, JavaScr
 Then I discovered Bootstrap and it fell into place for me.  Using Bootstrap I had to relearn some things but Bootstrap
 allow for me to use a lot of built in CSS which reduced my need for extra coding.  Treehouse always taught to keep it simple.
 That is what Bootstrap did for me.
+My website also includes in areas on the third page with colored words.  Clicking on these words will bring up pictures
+that pertain to that paragraph.  This also includes a sound bite. **
 
 Feature Requirements:
 Choose a minimum of 3 of the below features and incorporate into your site
@@ -20,7 +22,8 @@ Create and populate a JavaScript array, then retrieve and display one or more va
 Use “:nth child” CSS to style a series of elements (for example, change the color of every 2nd item in a list)
 **Import Bootstrap from a CDN and use its column system to create a responsive design**
 **Imported the CDN but it was not always up so it was hosted locally to ensure that it is available when project is checked.**
-**Create an image carousel with at least 3 images that it rotates through**
+**Create an image carousel with at least 3 images that it rotates through.  The carousel has a hover feature on it.  
+The carousel will stop when the cursor hovers over the picture.**
 Other features can be added to this list - just ask if your project needs something specific and as long as it’s a good demonstration of your programming skills, it almost certainly will count! Basically, we just want to see you do something interesting and challenging!
 
 
