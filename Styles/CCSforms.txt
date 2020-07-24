@@ -1,0 +1,16 @@
+/* Attribute Selectors ------------- */
+
+form[class="form-contact"] {
+  color: red;
+  padding: 20px 24px;
+  background: lightgray;
+}
+
+div[id="container"] {
+  max-width: 500px;
+  margin: auto;
+}
+
+input[type='email'] {
+  background: lightyellow;
+}

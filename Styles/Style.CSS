@@ -1,3 +1,4 @@
+/* New font */
 /* latin-ext */
 @font-face {
     font-family: 'Bubblegum Sans';
@@ -14,7 +15,7 @@
     src: local('Bubblegum Sans Regular'), local('BubblegumSans-Regular'), url(https://fonts.gstatic.com/s/bubblegumsans/v8/AYCSpXb_Z9EORv1M5QTjEzMEteaAxII.woff2) format('woff2');
     unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
   }
-
+/* Blood font */
    @font-face {
        font-family:'bloodFont';
        src: url('../fonts/bloodfont.ttf'); 
@@ -69,36 +70,56 @@ body {
     background-color: aqua;
 }
 
-.Red{
+.Red {
     color: red;
 }
-.Blue{
+.Blue {
     color: blue;
 }
-.Yellow{
+.Yellow {
     color: yellow;
 }
-.Green{
+.Green {
     color: lightgreen;
 }
-.Violet{
+.Violet {
     color: violet
 }
 
 .addMargin {
-margin-top: 10px;
-margin-bottom: 30px;
+    margin-top: 10px;
+    margin-bottom: 30px;
 }
  
-.definition{
+.definition {
     font-size: smaller;
 }
-#understanding{
+#understanding {
     font-weight: bolder;
 
 }
 
-.nav-link{
+.nav-link {
     margin-left: 20px;
     margin-right: 20px;
+}
+
+
+.carousel img {
+
+    margin: auto;
+
+}
+/* Cartoon background */
+#cartoon {
+    background-color: blue;
+}
+
+
+#forms {
+    font-weight: 900; 
+}   
+
+#merlin {
+    width: 100%
 }
