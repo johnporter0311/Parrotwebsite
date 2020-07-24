@@ -42,7 +42,7 @@ Many of the options in the first requirement will also fulfil this requirement
 ** Style.css is my external css file.
 ** Multi-colored header is custom in the external css file.
 ** Page 3 special font imported for use on page title in css file.
-** Extra padding was needed for the "Bios".  I added the extra padding to give it the spacing it needed.
+** Extra padding was needed for the "Bios".  I  added the extra padding to give it the spacing it needed.
 
 Your project includes JavaScript in a separate .js file
 Script tags in your HTML file must execute the JS file
